@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "Kicad Libraries")(type KiCad)(uri "D:/Kicad Project/Download_This/Kicad_Libraries/footprints")(options "")(descr ""))
+  (lib (name OSTTA020161)(type Legacy)(uri "D:/Kicad Project/Download_This/LIB_OSTTA020161/OSTTA020161/KiCad/OSTTA020161.mod")(options "")(descr ""))
+  (lib (name "Extra Libray Parts")(type KiCad)(uri "D:/Kicad Project/Download_This/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "extra parts")(type KiCad)(uri "D:/Kicad Project/Download_This/Extra Libray Parts")(options "")(descr ""))
+  (lib (name MLF2012E120K)(type Legacy)(uri "D:/Kicad Project/Download_This/Kicad_Libraries/Kicad Libraries/LIB_MLF2012E120K/MLF2012E120K/KiCad/MLF2012E120K.mod")(options "")(descr ""))
+)

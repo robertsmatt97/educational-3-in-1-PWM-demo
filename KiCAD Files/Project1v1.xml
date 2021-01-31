@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\rober\Downloads\Project1v2\Project1v2\Project1v1.sch</source>
+    <date>10/21/2019 12:15:56 PM</date>
+    <tool>Eeschema (5.1.4)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Project1v1.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C25">
+      <value>0.1u</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9A3BD9</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>AMK107BBJ476MA-RE</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9B4A2F</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>10n</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D8D7E04</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>56k-1%</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D8DE33D</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>4.7k-1%</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D8EA15A</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D91A881</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>56k-1%</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D8E2FBE</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D965370</tstamp>
+    </comp>
+    <comp ref="L4">
+      <value>680u</value>
+      <footprint>Kicad Libraries:SRR1260-100M</footprint>
+      <libsource lib="Project1v1-rescue" part="SRR1260-100M-Inductor_680u" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D8BDFF7</tstamp>
+    </comp>
+    <comp ref="L5">
+      <value>680u</value>
+      <footprint>Kicad Libraries:SRR1260-100M</footprint>
+      <libsource lib="Project1v1-rescue" part="SRR1260-100M-Inductor_680u" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D8BC01D</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>300R-10W</value>
+      <footprint>Kicad Libraries:SQP10AJB-300R</footprint>
+      <libsource lib="Project1v1-rescue" part="SQP10AJB-300R-300_ohm_power_resistor" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D8A7C96</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>300R-10W</value>
+      <footprint>Kicad Libraries:SQP10AJB-300R</footprint>
+      <libsource lib="Project1v1-rescue" part="SQP10AJB-300R-300_ohm_power_resistor" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D89BAF2</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>4.7k-1%</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DAA3A4B</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>J6_J8</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Top_Bottom_Vertical</footprint>
+      <libsource lib="Project1v1-rescue" part="J6_J8-Micro2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DC47398</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>J5_J7</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Top_Bottom_Vertical</footprint>
+      <libsource lib="Project1v1-rescue" part="J5_J7-Micro2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DC9CCAB</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>4.7u</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DCBE5B6</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>4.7u</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DCC4B82</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD46D6B</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>1u</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD71CAF</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD92657</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE011BD</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE09CFC</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>CSD19538Q3AT</value>
+      <footprint>Kicad Libraries:CSD19538Q3AT</footprint>
+      <libsource lib="Project1v1-rescue" part="CSD19538Q3AT-MOSFET" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D93707F</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>CSD19538Q3AT</value>
+      <footprint>Kicad Libraries:CSD19538Q3AT</footprint>
+      <libsource lib="Project1v1-rescue" part="CSD19538Q3AT-MOSFET" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D938172</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>4.7k-1%</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D8F2EE2</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>2R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DC577A2</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>TPS61085TDGKR</value>
+      <footprint>Kicad Libraries:TPS61085TDGKR</footprint>
+      <libsource lib="Project1v1-rescue" part="TPS61085TDGKR-Boost_TPS61085TDGKR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD1F798</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>1.6n</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD800C4</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>158k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDA4CC0</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>18k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDAFA6B</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>100n</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDDEC6E</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>4.7u</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE3ADCC</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>PMEG2010AEH</value>
+      <footprint>Kicad Libraries:SODFL3516X120N</footprint>
+      <datasheet>None</datasheet>
+      <fields>
+        <field name="Field4">SOD-123 NXP Semiconductors</field>
+        <field name="Field5">Nexperia USA</field>
+        <field name="Field6">Diode Schottky 20V 1A PMEG2010AEH</field>
+        <field name="Field7">Unavailable</field>
+        <field name="Field8">PMEG2010AEH</field>
+      </fields>
+      <libsource lib="Project1v1-rescue" part="PMEG2010AEH-PMEG2010AEH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE76D55</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>1u</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA35C3D</tstamp>
+    </comp>
+    <comp ref="L6">
+      <value>CVH252009-4R7M</value>
+      <footprint>Kicad Libraries:CVH252009-4R7M</footprint>
+      <libsource lib="Project1v1-rescue" part="CVH252009-4R7M-Boost_Inductor" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA67D6E</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>1u - 25 V</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA92EDD</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D_Zener</value>
+      <footprint>Kicad Libraries:SODFL3516X120N</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Project1v1-rescue" part="D_Zener-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA5C1B6</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>4.7k-1%</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DAA0F62</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>4.7k-1%</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DACDB0E</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>27k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD20EF3</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>4.7u</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D97120E</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>2R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9C4260</tstamp>
+    </comp>
+    <comp ref="L7">
+      <value>100n</value>
+      <footprint>MLF2012E120K:INDC2012X105N</footprint>
+      <libsource lib="Project1v1-rescue" part="SRR1260-100M-Inductor_680u" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA09847</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>2R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA16228</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>1n</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA85773</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA85779</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>LTR10EVHFLR240 (250m)</value>
+      <footprint>Kicad Libraries:LTR10EVHFLR240</footprint>
+      <libsource lib="Project1v1-rescue" part="LTR10EVHFLR240-Shunt_resistor" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF10244</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>1u</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E00087A</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>UBT2A100MPD8TD</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <libsource lib="Project1v1-rescue" part="UBT2A100MPD8TD-10uF_Electrolytic_Capacitor" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA3E80F</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DBD8F96</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>1n</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DBE309C</tstamp>
+    </comp>
+    <comp ref="CR1">
+      <value>MBR1H100SFT3G</value>
+      <footprint>Kicad Libraries:MBR1H100SFT3G</footprint>
+      <libsource lib="Project1v1-rescue" part="MBR1H100SFT3G-Gate_driver_diode" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DC2B724</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>OPA325xxDBV</value>
+      <footprint>Kicad Libraries:OPA320SAIDBVT</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/opa330.pdf</datasheet>
+      <libsource lib="Project1v1-rescue" part="OPA330xxDBV-Amplifier_Operational" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D9D8140</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>EG4319</value>
+      <footprint>Extra Libray Parts:EG4319</footprint>
+      <datasheet>http://spec_sheets.e-switch.com/specs/P040290.pdf</datasheet>
+      <fields>
+        <field name="Description">Slide Switches 4P3T PC MNT SLIDE</field>
+        <field name="Height">8</field>
+        <field name="Manufacturer_Name">E-Switch</field>
+        <field name="Manufacturer_Part_Number">EG4319</field>
+        <field name="Mouser Part Number">612-EG4319</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=612-EG4319</field>
+      </fields>
+      <libsource lib="Project1v1-rescue" part="EG4319-EG4319" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA63D85</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>OSTTA020161</value>
+      <footprint>OSTTA020161:SHDR2W130P0X500_1X2_1000X900X1290P</footprint>
+      <datasheet>http://www.on-shore.com/wp-content/uploads/2015/09/osttaxx0161.pdf</datasheet>
+      <fields>
+        <field name="Description">TERMINAL BLOCK 5MM VERT 2POS PCB</field>
+        <field name="Height">12.9</field>
+        <field name="Manufacturer_Name">On Shore Technology Inc.</field>
+        <field name="Manufacturer_Part_Number">OSTTA020161</field>
+      </fields>
+      <libsource lib="Project1v1-rescue" part="OSTTA020161-OSTTA020161" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DBF91D8</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DC2C5F6</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DC3814B</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>10n</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DC433BF</tstamp>
+    </comp>
+    <comp ref="VR1">
+      <value>PTV09A-4020U-B103</value>
+      <footprint>Extra Libray Parts:PTV09A4015FB103</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/PTV09A-4020U-B103.pdf</datasheet>
+      <fields>
+        <field name="Description">Bourns 1 Gang Linear Carbon Potentiometer with a 6 mm Dia. Shaft, 10k, +/-20%, 0.05W, Linear PTV09A-4020U-B103</field>
+        <field name="Height">15.5</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">PTV09A-4020U-B103</field>
+        <field name="Mouser Part Number">652-PTV09A-4020UB103</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4020UB103</field>
+      </fields>
+      <libsource lib="Project1v1-rescue" part="PTV09A-4020U-B103-PTV09A-4020U-B103" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DC95A4A</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DCE32CB</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>47k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DCE32D1</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>10n</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DCE32D7</tstamp>
+    </comp>
+    <comp ref="VR2">
+      <value>PTV09A-4020U-B103</value>
+      <footprint>Extra Libray Parts:PTV09A4015FB103</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/PTV09A-4020U-B103.pdf</datasheet>
+      <fields>
+        <field name="Description">Bourns 1 Gang Linear Carbon Potentiometer with a 6 mm Dia. Shaft, 10k, +/-20%, 0.05W, Linear PTV09A-4020U-B103</field>
+        <field name="Height">15.5</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">PTV09A-4020U-B103</field>
+        <field name="Mouser Part Number">652-PTV09A-4020UB103</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4020UB103</field>
+      </fields>
+      <libsource lib="Project1v1-rescue" part="PTV09A-4020U-B103-PTV09A-4020U-B103" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DCE32F3</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>R1966ABLKBLKEF</value>
+      <footprint>Extra Libray Parts:R1966ABLKBLKEF</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/R1966ABLKBLKEF.pdf</datasheet>
+      <fields>
+        <field name="Description">E-SWITCH - R1966ABLKBLKEF - ROCKER SWITCH, SPST, 15A, 125VAC, BLACK</field>
+        <field name="Height">19.4</field>
+        <field name="Manufacturer_Name">E-Switch</field>
+        <field name="Manufacturer_Part_Number">R1966ABLKBLKEF</field>
+        <field name="Mouser Part Number">612-R1966ABKBKEF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=612-R1966ABKBKEF</field>
+      </fields>
+      <libsource lib="Project1v1-rescue" part="R1966ABLKBLKEF-R1966ABLKBLKEF" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DA9E674</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>R1966ABLKBLKEF</value>
+      <footprint>Extra Libray Parts:R1966ABLKBLKEF</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/R1966ABLKBLKEF.pdf</datasheet>
+      <fields>
+        <field name="Description">E-SWITCH - R1966ABLKBLKEF - ROCKER SWITCH, SPST, 15A, 125VAC, BLACK</field>
+        <field name="Height">19.4</field>
+        <field name="Manufacturer_Name">E-Switch</field>
+        <field name="Manufacturer_Part_Number">R1966ABLKBLKEF</field>
+        <field name="Mouser Part Number">612-R1966ABKBKEF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=612-R1966ABKBKEF</field>
+      </fields>
+      <libsource lib="Project1v1-rescue" part="R1966ABLKBLKEF-R1966ABLKBLKEF" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB00467</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>R1966ABLKBLKEF</value>
+      <footprint>Extra Libray Parts:R1966ABLKBLKEF</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/R1966ABLKBLKEF.pdf</datasheet>
+      <fields>
+        <field name="Description">E-SWITCH - R1966ABLKBLKEF - ROCKER SWITCH, SPST, 15A, 125VAC, BLACK</field>
+        <field name="Height">19.4</field>
+        <field name="Manufacturer_Name">E-Switch</field>
+        <field name="Manufacturer_Part_Number">R1966ABLKBLKEF</field>
+        <field name="Mouser Part Number">612-R1966ABKBKEF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=612-R1966ABKBKEF</field>
+      </fields>
+      <libsource lib="Project1v1-rescue" part="R1966ABLKBLKEF-R1966ABLKBLKEF" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB383E8</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>R1966ABLKBLKEF</value>
+      <footprint>Extra Libray Parts:R1966ABLKBLKEF</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/R1966ABLKBLKEF.pdf</datasheet>
+      <fields>
+        <field name="Description">E-SWITCH - R1966ABLKBLKEF - ROCKER SWITCH, SPST, 15A, 125VAC, BLACK</field>
+        <field name="Height">19.4</field>
+        <field name="Manufacturer_Name">E-Switch</field>
+        <field name="Manufacturer_Part_Number">R1966ABLKBLKEF</field>
+        <field name="Mouser Part Number">612-R1966ABKBKEF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=612-R1966ABKBKEF</field>
+      </fields>
+      <libsource lib="Project1v1-rescue" part="R1966ABLKBLKEF-R1966ABLKBLKEF" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DBA4686</tstamp>
+    </comp>
+    <comp ref="SW7">
+      <value>R1966ABLKBLKEF</value>
+      <footprint>Extra Libray Parts:R1966ABLKBLKEF</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/R1966ABLKBLKEF.pdf</datasheet>
+      <fields>
+        <field name="Description">E-SWITCH - R1966ABLKBLKEF - ROCKER SWITCH, SPST, 15A, 125VAC, BLACK</field>
+        <field name="Height">19.4</field>
+        <field name="Manufacturer_Name">E-Switch</field>
+        <field name="Manufacturer_Part_Number">R1966ABLKBLKEF</field>
+        <field name="Mouser Part Number">612-R1966ABKBKEF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=612-R1966ABKBKEF</field>
+      </fields>
+      <libsource lib="Project1v1-rescue" part="R1966ABLKBLKEF-R1966ABLKBLKEF" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DBD725D</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>ADE04S04</value>
+      <footprint>extra parts:ADE04S04</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/ADE04S04.pdf</datasheet>
+      <fields>
+        <field name="Description">DIP Switches / SIP Switches SWITCH DIP SPST EXT ACT 4POS SMD</field>
+        <field name="Height">4.5</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">ADE04S04</field>
+        <field name="Mouser Part Number">506-ADE04S04</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=506-ADE04S04</field>
+      </fields>
+      <libsource lib="Project1v1-rescue" part="ADE04S04-ADE04S04" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDD099A</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>LTR10EVHFLR240 (250m)</value>
+      <footprint>Kicad Libraries:LTR10EVHFLR240</footprint>
+      <libsource lib="Project1v1-rescue" part="LTR10EVHFLR240-Shunt_resistor" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DAB49C3</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>LTR10EVHFLR240 (250m)</value>
+      <footprint>Kicad Libraries:LTR10EVHFLR240</footprint>
+      <libsource lib="Project1v1-rescue" part="LTR10EVHFLR240-Shunt_resistor" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DAE1367</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>10n-0603-X7S-TDK-100V</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB103DB</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>10n-0603-X7S-TDK-100V</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB20414</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>10n-0603-X7S-TDK-100V</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DACF955</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>10n-0603-X7S-TDK-100V</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DACF94F</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>10n-0603-X7S-TDK-100V</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DBE4ED4</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>10n-0603-X7S-TDK-100V</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DBE4EDA</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>10n-0603-X7S-TDK-100V</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DC29246</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>10n-0603-X7S-TDK-100V</value>
+      <footprint>Kicad Libraries:AMK107BBJ476MA-RE</footprint>
+      <libsource lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DC3A0E4</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>LM5109BMA</value>
+      <footprint>Kicad Libraries:LM5109BMA</footprint>
+      <libsource lib="Project1v1-rescue" part="LM5109BMA-GateDriver_lm5210mba" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DB4F9B5</tstamp>
+    </comp>
+    <comp ref="L2">
+      <value>1n</value>
+      <footprint>MLF2012E120K:INDC2012X105N</footprint>
+      <libsource lib="Project1v1-rescue" part="SRR1260-100M-Inductor_680u" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDDDB33</tstamp>
+    </comp>
+    <comp ref="L3">
+      <value>1n</value>
+      <footprint>MLF2012E120K:INDC2012X105N</footprint>
+      <libsource lib="Project1v1-rescue" part="SRR1260-100M-Inductor_680u" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDF141B</tstamp>
+    </comp>
+    <comp ref="L8">
+      <value>100n</value>
+      <footprint>MLF2012E120K:INDC2012X105N</footprint>
+      <libsource lib="Project1v1-rescue" part="SRR1260-100M-Inductor_680u" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE5D23E</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>1n</value>
+      <footprint>MLF2012E120K:INDC2012X105N</footprint>
+      <libsource lib="Project1v1-rescue" part="SRR1260-100M-Inductor_680u" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE86A20</tstamp>
+    </comp>
+    <comp ref="L9">
+      <value>100n</value>
+      <footprint>MLF2012E120K:INDC2012X105N</footprint>
+      <libsource lib="Project1v1-rescue" part="SRR1260-100M-Inductor_680u" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEC0B5A</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D_Zener</value>
+      <footprint>Kicad Libraries:SODFL3516X120N</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Project1v1-rescue" part="D_Zener-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E01E601</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>LMP8640HVMK-H_NOPB</value>
+      <footprint>Extra Libray Parts:SOT95P280X110-6N</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/lmp8640hv</datasheet>
+      <fields>
+        <field name="Description">76-V, Low- or High-Side, High-Speed, Voltage Output Current Sensing Amplifier</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LMP8640HVMK-H/NOPB</field>
+        <field name="Mouser Part Number">926-LMP8640HVMKHNOPB</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=926-LMP8640HVMKHNOPB</field>
+      </fields>
+      <libsource lib="Project1v1-rescue" part="LMP8640HVMK-H_NOPB-LMP8640HVMK-H_NOPB" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E102131</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>UKL2A0R1KDD</value>
+      <footprint>Kicad Libraries:UKL2A0R1KDD</footprint>
+      <libsource lib="Project1v1-rescue" part="UKL2A0R1KDD-100n_Electrolytic_Capacitor" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E2F3B8A</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>UKL2A0R1KDD</value>
+      <footprint>Kicad Libraries:UKL2A0R1KDD</footprint>
+      <libsource lib="Project1v1-rescue" part="UKL2A0R1KDD-100n_Electrolytic_Capacitor" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E2F58A6</tstamp>
+    </comp>
+    <comp ref="PT10">
+      <value>Probe_test</value>
+      <footprint>Extra Libray Parts:Probe_test</footprint>
+      <libsource lib="Probe_test" part="Probe_test" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4ACA3D</tstamp>
+    </comp>
+    <comp ref="PT6">
+      <value>Probe_test</value>
+      <footprint>Extra Libray Parts:Probe_test</footprint>
+      <libsource lib="Probe_test" part="Probe_test" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4EAA44</tstamp>
+    </comp>
+    <comp ref="PT2">
+      <value>Probe_test</value>
+      <footprint>Extra Libray Parts:Probe_test</footprint>
+      <libsource lib="Probe_test" part="Probe_test" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E58ED23</tstamp>
+    </comp>
+    <comp ref="PT5">
+      <value>Probe_test</value>
+      <footprint>Extra Libray Parts:Probe_test</footprint>
+      <libsource lib="Probe_test" part="Probe_test" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E76724A</tstamp>
+    </comp>
+    <comp ref="PT8">
+      <value>Probe_test</value>
+      <footprint>Extra Libray Parts:Probe_test</footprint>
+      <libsource lib="Probe_test" part="Probe_test" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E81CFE5</tstamp>
+    </comp>
+    <comp ref="PT1">
+      <value>Probe_test</value>
+      <footprint>Extra Libray Parts:Probe_test</footprint>
+      <libsource lib="Probe_test" part="Probe_test" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E890EB2</tstamp>
+    </comp>
+    <comp ref="PT3">
+      <value>Probe_test</value>
+      <footprint>Extra Libray Parts:Probe_test</footprint>
+      <libsource lib="Probe_test" part="Probe_test" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E908097</tstamp>
+    </comp>
+    <comp ref="PT7">
+      <value>Probe_test</value>
+      <footprint>Extra Libray Parts:Probe_test</footprint>
+      <libsource lib="Probe_test" part="Probe_test" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E99C35C</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>LTR10EVHFLR240 (250m)</value>
+      <footprint>Kicad Libraries:LTR10EVHFLR240</footprint>
+      <libsource lib="Project1v1-rescue" part="LTR10EVHFLR240-Shunt_resistor" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EA1D62D</tstamp>
+    </comp>
+    <comp ref="PT9">
+      <value>Probe_test</value>
+      <footprint>Extra Libray Parts:Probe_test</footprint>
+      <libsource lib="Probe_test" part="Probe_test" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EB58B9C</tstamp>
+    </comp>
+    <comp ref="PT11">
+      <value>Probe_test</value>
+      <footprint>Extra Libray Parts:Probe_test</footprint>
+      <libsource lib="Probe_test" part="Probe_test" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC1ECE2</tstamp>
+    </comp>
+    <comp ref="PT4">
+      <value>Probe_test</value>
+      <footprint>Extra Libray Parts:Probe_test</footprint>
+      <libsource lib="Probe_test" part="Probe_test" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E6E345A</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Probe_test" part="Probe_test">
+      <fields>
+        <field name="Reference">PT?</field>
+        <field name="Value">Probe_test</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P+" type="input"/>
+        <pin num="2" name="P-" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="ADE04S04-ADE04S04">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">ADE04S04-ADE04S04</field>
+        <field name="Footprint">ADE04S04</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/ADE04S04.pdf</field>
+        <field name="Description">DIP Switches / SIP Switches SWITCH DIP SPST EXT ACT 4POS SMD</field>
+        <field name="Height">4.5</field>
+        <field name="Mouser Part Number">506-ADE04S04</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=506-ADE04S04</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">ADE04S04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="BiDi"/>
+        <pin num="2" name="2" type="BiDi"/>
+        <pin num="3" name="3" type="BiDi"/>
+        <pin num="4" name="4" type="BiDi"/>
+        <pin num="5" name="5" type="BiDi"/>
+        <pin num="6" name="6" type="BiDi"/>
+        <pin num="7" name="7" type="BiDi"/>
+        <pin num="8" name="8" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="AMK107BBJ476MA-RE-ul_AMK">
+      <footprints>
+        <fp>AMK107_0603_A</fp>
+        <fp>AMK107_0603_A-M</fp>
+        <fp>AMK107_0603_A-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">AMK107BBJ476MA-RE-ul_AMK</field>
+        <field name="Footprint">AMK107_0603_A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="CSD19538Q3AT-MOSFET">
+      <footprints>
+        <fp>DNH8</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CSD19538Q3AT-MOSFET</field>
+        <field name="Footprint">DNH8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="unspc"/>
+        <pin num="2" name="S" type="unspc"/>
+        <pin num="3" name="S" type="unspc"/>
+        <pin num="4" name="G" type="unspc"/>
+        <pin num="5" name="D" type="unspc"/>
+        <pin num="6" name="D" type="unspc"/>
+        <pin num="7" name="D" type="unspc"/>
+        <pin num="8" name="D" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="CVH252009-4R7M-Boost_Inductor">
+      <footprints>
+        <fp>IND_BOURNS_CVH252009</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">CVH252009-4R7M-Boost_Inductor</field>
+        <field name="Footprint">IND_BOURNS_CVH252009</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="D_Zener-Device">
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="EG4319-EG4319">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">EG4319-EG4319</field>
+        <field name="Footprint">EG4319</field>
+        <field name="Datasheet">http://spec_sheets.e-switch.com/specs/P040290.pdf</field>
+        <field name="Description">Slide Switches 4P3T PC MNT SLIDE</field>
+        <field name="Height">8</field>
+        <field name="Manufacturer_Name">E-Switch</field>
+        <field name="Manufacturer_Part_Number">EG4319</field>
+        <field name="Mouser Part Number">612-EG4319</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=612-EG4319</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="BiDi"/>
+        <pin num="2" name="2" type="BiDi"/>
+        <pin num="3" name="3" type="BiDi"/>
+        <pin num="4" name="4" type="BiDi"/>
+        <pin num="5" name="5" type="BiDi"/>
+        <pin num="6" name="6" type="BiDi"/>
+        <pin num="7" name="7" type="BiDi"/>
+        <pin num="8" name="8" type="BiDi"/>
+        <pin num="9" name="9" type="BiDi"/>
+        <pin num="10" name="10" type="BiDi"/>
+        <pin num="11" name="11" type="BiDi"/>
+        <pin num="12" name="12" type="BiDi"/>
+        <pin num="13" name="13" type="BiDi"/>
+        <pin num="14" name="14" type="BiDi"/>
+        <pin num="15" name="15" type="BiDi"/>
+        <pin num="16" name="16" type="BiDi"/>
+        <pin num="17" name="17" type="BiDi"/>
+        <pin num="18" name="18" type="BiDi"/>
+        <pin num="19" name="19" type="BiDi"/>
+        <pin num="20" name="20" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="J5_J7-Micro2">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">J5_J7-Micro2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+3.3" type="input"/>
+        <pin num="2" name="PGA246_GND" type="input"/>
+        <pin num="3" name="GPIO28_BP" type="BiDi"/>
+        <pin num="4" name="GPIO29_BP" type="BiDi"/>
+        <pin num="5" name="ADCINB4_P4OF" type="input"/>
+        <pin num="6" name="ADCINA4_P2OF" type="input"/>
+        <pin num="7" name="GPIO22" type="BiDi"/>
+        <pin num="8" name="ADCINA8_P6OF" type="input"/>
+        <pin num="9" name="~" type="NotConnected"/>
+        <pin num="10" name="~" type="NotConnected"/>
+        <pin num="11" name="+5V" type="input"/>
+        <pin num="12" name="GND" type="input"/>
+        <pin num="13" name="ADCINA6" type="input"/>
+        <pin num="14" name="ADCINA2" type="input"/>
+        <pin num="15" name="ADCINC14" type="input"/>
+        <pin num="16" name="ADCINC1" type="input"/>
+        <pin num="17" name="ADCINC3_P4I" type="input"/>
+        <pin num="18" name="ADCINC5_P6I" type="input"/>
+        <pin num="19" name="ADCINA3_P2I" type="input"/>
+        <pin num="20" name="ADCINA0" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="J6_J8-Micro2">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">J6_J8-Micro2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GPIO0" type="BiDi"/>
+        <pin num="2" name="GPIO1" type="BiDi"/>
+        <pin num="3" name="GPIO6_BP" type="BiDi"/>
+        <pin num="4" name="GPIO7_BP" type="BiDi"/>
+        <pin num="5" name="GPIO2" type="BiDi"/>
+        <pin num="6" name="GPIO3" type="BiDi"/>
+        <pin num="7" name="GPIO26_BP" type="BiDi"/>
+        <pin num="8" name="GPIO15_BP" type="BiDi"/>
+        <pin num="9" name="GPIO14_BP" type="BiDi"/>
+        <pin num="10" name="GPIO32_BP" type="BiDi"/>
+        <pin num="11" name="GND" type="input"/>
+        <pin num="12" name="GPIO27" type="BiDi"/>
+        <pin num="13" name="~" type="NotConnected"/>
+        <pin num="14" name="~" type="NotConnected"/>
+        <pin num="15" name="XRSn" type="input"/>
+        <pin num="16" name="GPIO24" type="BiDi"/>
+        <pin num="17" name="GPIO31" type="BiDi"/>
+        <pin num="18" name="GPIO33_BP" type="BiDi"/>
+        <pin num="19" name="GPIO34" type="BiDi"/>
+        <pin num="20" name="GPIO12_BP" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="LM5109BMA-GateDriver_lm5210mba">
+      <footprints>
+        <fp>M08A</fp>
+        <fp>M08A-M</fp>
+        <fp>M08A-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM5109BMA-GateDriver_lm5210mba</field>
+        <field name="Footprint">M08A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="HI" type="input"/>
+        <pin num="3" name="LI" type="input"/>
+        <pin num="4" name="VSS" type="power_in"/>
+        <pin num="5" name="LO" type="output"/>
+        <pin num="6" name="HS" type="passive"/>
+        <pin num="7" name="HO" type="output"/>
+        <pin num="8" name="HB" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="LMP8640HVMK-H_NOPB-LMP8640HVMK-H_NOPB">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LMP8640HVMK-H_NOPB-LMP8640HVMK-H_NOPB</field>
+        <field name="Footprint">SOT95P280X110-6N</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/lmp8640hv</field>
+        <field name="Description">76-V, Low- or High-Side, High-Speed, Voltage Output Current Sensing Amplifier</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LMP8640HVMK-H/NOPB</field>
+        <field name="Mouser Part Number">926-LMP8640HVMKHNOPB</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=926-LMP8640HVMKHNOPB</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VOUT" type="BiDi"/>
+        <pin num="2" name="V-" type="BiDi"/>
+        <pin num="3" name="+IN" type="BiDi"/>
+        <pin num="4" name="-IN" type="BiDi"/>
+        <pin num="5" name="NC" type="BiDi"/>
+        <pin num="6" name="V+" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="LTR10EVHFLR240-Shunt_resistor">
+      <footprints>
+        <fp>RES_R1220</fp>
+        <fp>RES_R1220-M</fp>
+        <fp>RES_R1220-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">LTR10EVHFLR240-Shunt_resistor</field>
+        <field name="Footprint">RES_R1220</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="MBR1H100SFT3G-Gate_driver_diode">
+      <footprints>
+        <fp>DIODE_SOD123LF_2P9X1P8</fp>
+        <fp>DIODE_SOD123LF_2P9X1P8-M</fp>
+        <fp>DIODE_SOD123LF_2P9X1P8-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CR</field>
+        <field name="Value">MBR1H100SFT3G-Gate_driver_diode</field>
+        <field name="Footprint">DIODE_SOD123LF_2P9X1P8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="OPA330xxDBV-Amplifier_Operational">
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">OPA330xxDBV-Amplifier_Operational</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="output"/>
+        <pin num="2" name="V-" type="power_in"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="-" type="input"/>
+        <pin num="5" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="OSTTA020161-OSTTA020161">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">OSTTA020161-OSTTA020161</field>
+        <field name="Footprint">SHDR2W130P0X500_1X2_1000X900X1290P</field>
+        <field name="Datasheet">http://www.on-shore.com/wp-content/uploads/2015/09/osttaxx0161.pdf</field>
+        <field name="Description">TERMINAL BLOCK 5MM VERT 2POS PCB</field>
+        <field name="Height">12.9</field>
+        <field name="Manufacturer_Name">On Shore Technology Inc.</field>
+        <field name="Manufacturer_Part_Number">OSTTA020161</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="BiDi"/>
+        <pin num="2" name="2" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="PMEG2010AEH-PMEG2010AEH">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PMEG2010AEH-PMEG2010AEH</field>
+        <field name="Footprint">SOD-123</field>
+        <field name="Datasheet">None</field>
+        <field name="Field4">SOD-123 NXP Semiconductors</field>
+        <field name="Field5">Nexperia USA</field>
+        <field name="Field6">Diode Schottky 20V 1A PMEG2010AEH</field>
+        <field name="Field7">Unavailable</field>
+        <field name="Field8">PMEG2010AEH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="PMR03EZPFU10L0-ul_PMR03EZPFU10L0">
+      <footprints>
+        <fp>RES_R0603</fp>
+        <fp>RES_R0603-M</fp>
+        <fp>RES_R0603-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">PMR03EZPFU10L0-ul_PMR03EZPFU10L0</field>
+        <field name="Footprint">RES_R0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="PTV09A-4020U-B103-PTV09A-4020U-B103">
+      <fields>
+        <field name="Reference">VR</field>
+        <field name="Value">PTV09A-4020U-B103-PTV09A-4020U-B103</field>
+        <field name="Footprint">PTV09A4015FB103</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/PTV09A-4020U-B103.pdf</field>
+        <field name="Description">Bourns 1 Gang Linear Carbon Potentiometer with a 6 mm Dia. Shaft, 10k, +/-20%, 0.05W, Linear PTV09A-4020U-B103</field>
+        <field name="Height">15.5</field>
+        <field name="Mouser Part Number">652-PTV09A-4020UB103</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTV09A-4020UB103</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">PTV09A-4020U-B103</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CCW" type="BiDi"/>
+        <pin num="2" name="WIPER" type="BiDi"/>
+        <pin num="3" name="CW" type="BiDi"/>
+        <pin num="MH1" name="MH1" type="BiDi"/>
+        <pin num="MH2" name="MH2" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="R1966ABLKBLKEF-R1966ABLKBLKEF">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">R1966ABLKBLKEF-R1966ABLKBLKEF</field>
+        <field name="Footprint">R1966ABLKBLKEF</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/R1966ABLKBLKEF.pdf</field>
+        <field name="Description">E-SWITCH - R1966ABLKBLKEF - ROCKER SWITCH, SPST, 15A, 125VAC, BLACK</field>
+        <field name="Height">19.4</field>
+        <field name="Mouser Part Number">612-R1966ABKBKEF</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=612-R1966ABKBKEF</field>
+        <field name="Manufacturer_Name">E-Switch</field>
+        <field name="Manufacturer_Part_Number">R1966ABLKBLKEF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="BiDi"/>
+        <pin num="2" name="2" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="SQP10AJB-300R-300_ohm_power_resistor">
+      <footprints>
+        <fp>RES_SQP10A_48X9P5</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">SQP10AJB-300R-300_ohm_power_resistor</field>
+        <field name="Footprint">RES_SQP10A_48X9P5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="SRR1260-100M-Inductor_680u">
+      <footprints>
+        <fp>IND_BOURNS_SRR1260</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">SRR1260-100M-Inductor_680u</field>
+        <field name="Footprint">IND_BOURNS_SRR1260</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="TPS61085TDGKR-Boost_TPS61085TDGKR">
+      <footprints>
+        <fp>DGK8</fp>
+        <fp>DGK8-M</fp>
+        <fp>DGK8-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS61085TDGKR-Boost_TPS61085TDGKR</field>
+        <field name="Footprint">DGK8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COMP" type="unspc"/>
+        <pin num="2" name="FB" type="input"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="PGND" type="power_in"/>
+        <pin num="5" name="SW" type="unspc"/>
+        <pin num="6" name="IN" type="input"/>
+        <pin num="7" name="FREQ" type="input"/>
+        <pin num="8" name="SS" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="UBT2A100MPD8TD-10uF_Electrolytic_Capacitor">
+      <footprints>
+        <fp>CAP_UBT_8X11P5</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">UBT2A100MPD8TD-10uF_Electrolytic_Capacitor</field>
+        <field name="Footprint">CAP_UBT_8X11P5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="Project1v1-rescue" part="UKL2A0R1KDD-100n_Electrolytic_Capacitor">
+      <footprints>
+        <fp>CAP_UKL_5X11</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">UKL2A0R1KDD-100n_Electrolytic_Capacitor</field>
+        <field name="Footprint">CAP_UKL_5X11</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Probe_test">
+      <uri>C:\Users\rober\Downloads\Project1v2\Project1v2/Probe_test.lib</uri>
+    </library>
+    <library logical="Project1v1-rescue">
+      <uri>C:\Users\rober\Downloads\Project1v2\Project1v2/Project1v1-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="R3" pin="1"/>
+      <node ref="SW4" pin="2"/>
+    </net>
+    <net code="2" name="S1">
+      <node ref="PT3" pin="1"/>
+      <node ref="U1" pin="4"/>
+      <node ref="R28" pin="2"/>
+    </net>
+    <net code="3" name="Net-(R21-Pad1)">
+      <node ref="R21" pin="1"/>
+      <node ref="R22" pin="2"/>
+      <node ref="VR2" pin="1"/>
+    </net>
+    <net code="4" name="Net-(L4-Pad2)">
+      <node ref="SW5" pin="2"/>
+      <node ref="L4" pin="2"/>
+    </net>
+    <net code="5" name="C3">
+      <node ref="PT11" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="R30" pin="2"/>
+      <node ref="C17" pin="2"/>
+      <node ref="PT7" pin="2"/>
+      <node ref="PT8" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="VR1" pin="3"/>
+      <node ref="VR1" pin="2"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C23" pin="2"/>
+      <node ref="PT6" pin="2"/>
+      <node ref="D1" pin="2"/>
+      <node ref="VR2" pin="2"/>
+      <node ref="VR2" pin="3"/>
+      <node ref="PT1" pin="2"/>
+      <node ref="C18" pin="1"/>
+      <node ref="R12" pin="1"/>
+      <node ref="D2" pin="2"/>
+      <node ref="C12" pin="1"/>
+      <node ref="C29" pin="2"/>
+      <node ref="C28" pin="2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="J2" pin="12"/>
+      <node ref="J3" pin="11"/>
+      <node ref="R13" pin="1"/>
+      <node ref="R14" pin="1"/>
+      <node ref="R11" pin="1"/>
+      <node ref="U4" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C26" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="PT9" pin="2"/>
+      <node ref="U6" pin="4"/>
+      <node ref="C11" pin="1"/>
+      <node ref="C27" pin="2"/>
+      <node ref="SW2" pin="5"/>
+      <node ref="C22" pin="2"/>
+      <node ref="SW2" pin="7"/>
+      <node ref="C15" pin="2"/>
+      <node ref="C24" pin="2"/>
+      <node ref="R6" pin="1"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C9" pin="1"/>
+      <node ref="C8" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="R5" pin="2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="C10" pin="2"/>
+      <node ref="U3" pin="2"/>
+      <node ref="R26" pin="1"/>
+      <node ref="U5" pin="4"/>
+    </net>
+    <net code="6" name="Boost">
+      <node ref="J3" pin="4"/>
+      <node ref="SW2" pin="15"/>
+    </net>
+    <net code="7" name="Buck_Boost">
+      <node ref="SW2" pin="16"/>
+      <node ref="J3" pin="5"/>
+    </net>
+    <net code="8" name="Net-(SW2-Pad17)">
+      <node ref="SW2" pin="17"/>
+    </net>
+    <net code="9" name="Net-(SW2-Pad18)">
+      <node ref="SW2" pin="18"/>
+    </net>
+    <net code="10" name="Net-(SW2-Pad19)">
+      <node ref="SW2" pin="19"/>
+    </net>
+    <net code="11" name="Net-(SW2-Pad20)">
+      <node ref="SW2" pin="20"/>
+    </net>
+    <net code="12" name="C1">
+      <node ref="R1" pin="1"/>
+      <node ref="C6" pin="2"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="SW2" pin="4"/>
+      <node ref="SW2" pin="11"/>
+      <node ref="C7" pin="2"/>
+      <node ref="PT2" pin="1"/>
+    </net>
+    <net code="13" name="Buck">
+      <node ref="J3" pin="3"/>
+      <node ref="SW2" pin="13"/>
+    </net>
+    <net code="14" name="Net-(CR1-Pad2)">
+      <node ref="R24" pin="2"/>
+      <node ref="CR1" pin="2"/>
+    </net>
+    <net code="15" name="I_switch_meas">
+      <node ref="C15" pin="1"/>
+      <node ref="J2" pin="18"/>
+      <node ref="R17" pin="1"/>
+    </net>
+    <net code="16" name="Net-(C25-Pad1)">
+      <node ref="U6" pin="8"/>
+      <node ref="CR1" pin="1"/>
+      <node ref="C25" pin="1"/>
+    </net>
+    <net code="17" name="Net-(R19-Pad1)">
+      <node ref="VR1" pin="1"/>
+      <node ref="R19" pin="1"/>
+      <node ref="R20" pin="2"/>
+    </net>
+    <net code="18" name="+3V3">
+      <node ref="R21" pin="2"/>
+      <node ref="SW6" pin="3"/>
+      <node ref="J2" pin="1"/>
+      <node ref="SW6" pin="5"/>
+      <node ref="SW6" pin="1"/>
+      <node ref="SW6" pin="7"/>
+      <node ref="C18" pin="2"/>
+      <node ref="R19" pin="2"/>
+      <node ref="SW2" pin="14"/>
+      <node ref="C12" pin="2"/>
+    </net>
+    <net code="19" name="Duty_Cycle_Knob">
+      <node ref="R22" pin="1"/>
+      <node ref="J2" pin="15"/>
+      <node ref="C17" pin="1"/>
+    </net>
+    <net code="20" name="Net-(VR2-PadMH1)">
+      <node ref="VR2" pin="MH1"/>
+    </net>
+    <net code="21" name="Net-(VR2-PadMH2)">
+      <node ref="VR2" pin="MH2"/>
+    </net>
+    <net code="22" name="Net-(VR1-PadMH1)">
+      <node ref="VR1" pin="MH1"/>
+    </net>
+    <net code="23" name="Net-(VR1-PadMH2)">
+      <node ref="VR1" pin="MH2"/>
+    </net>
+    <net code="24" name="I_ind_p">
+      <node ref="L4" pin="1"/>
+      <node ref="PT5" pin="1"/>
+      <node ref="L5" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="U4" pin="3"/>
+    </net>
+    <net code="25" name="B-">
+      <node ref="SW2" pin="6"/>
+      <node ref="PT10" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="J1" pin="2"/>
+      <node ref="R18" pin="2"/>
+    </net>
+    <net code="26" name="C2">
+      <node ref="SW2" pin="9"/>
+      <node ref="R4" pin="1"/>
+      <node ref="SW2" pin="12"/>
+      <node ref="C8" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="SW2" pin="3"/>
+      <node ref="SW2" pin="8"/>
+      <node ref="PT4" pin="2"/>
+      <node ref="U4" pin="4"/>
+      <node ref="PT5" pin="2"/>
+    </net>
+    <net code="27" name="Net-(L7-Pad1)">
+      <node ref="L9" pin="1"/>
+      <node ref="SW7" pin="2"/>
+      <node ref="L8" pin="1"/>
+      <node ref="L7" pin="1"/>
+      <node ref="R28" pin="1"/>
+    </net>
+    <net code="28" name="Signal1">
+      <node ref="U6" pin="2"/>
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="29" name="Signal2">
+      <node ref="J3" pin="2"/>
+      <node ref="U6" pin="3"/>
+    </net>
+    <net code="30" name="Net-(U4-Pad5)">
+      <node ref="U4" pin="5"/>
+    </net>
+    <net code="31" name="Net-(R17-Pad2)">
+      <node ref="U4" pin="1"/>
+      <node ref="R17" pin="2"/>
+    </net>
+    <net code="32" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2"/>
+      <node ref="SW1" pin="2"/>
+      <node ref="C29" pin="1"/>
+      <node ref="C3" pin="2"/>
+    </net>
+    <net code="33" name="Net-(J2-Pad3)">
+      <node ref="J2" pin="3"/>
+    </net>
+    <net code="34" name="Net-(J2-Pad10)">
+      <node ref="J2" pin="10"/>
+    </net>
+    <net code="35" name="Net-(J2-Pad13)">
+      <node ref="J2" pin="13"/>
+    </net>
+    <net code="36" name="Freq_Knob">
+      <node ref="J2" pin="14"/>
+      <node ref="C16" pin="1"/>
+      <node ref="R20" pin="1"/>
+    </net>
+    <net code="37" name="Net-(J2-Pad16)">
+      <node ref="J2" pin="16"/>
+    </net>
+    <net code="38" name="Vout_meas">
+      <node ref="J2" pin="17"/>
+      <node ref="C10" pin="1"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="39" name="Net-(J2-Pad19)">
+      <node ref="J2" pin="19"/>
+    </net>
+    <net code="40" name="Net-(J2-Pad2)">
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="41" name="Vin_meas">
+      <node ref="R16" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="J2" pin="20"/>
+    </net>
+    <net code="42" name="Net-(J2-Pad4)">
+      <node ref="J2" pin="4"/>
+    </net>
+    <net code="43" name="Net-(J2-Pad5)">
+      <node ref="J2" pin="5"/>
+    </net>
+    <net code="44" name="Net-(J2-Pad6)">
+      <node ref="J2" pin="6"/>
+    </net>
+    <net code="45" name="Net-(J2-Pad7)">
+      <node ref="J2" pin="7"/>
+    </net>
+    <net code="46" name="Net-(J2-Pad8)">
+      <node ref="J2" pin="8"/>
+    </net>
+    <net code="47" name="Net-(J2-Pad9)">
+      <node ref="J2" pin="9"/>
+    </net>
+    <net code="48" name="Net-(J3-Pad15)">
+      <node ref="J3" pin="15"/>
+    </net>
+    <net code="49" name="Net-(J3-Pad10)">
+      <node ref="J3" pin="10"/>
+    </net>
+    <net code="50" name="Net-(J3-Pad12)">
+      <node ref="J3" pin="12"/>
+    </net>
+    <net code="51" name="Net-(J3-Pad13)">
+      <node ref="J3" pin="13"/>
+    </net>
+    <net code="52" name="Net-(J3-Pad14)">
+      <node ref="J3" pin="14"/>
+    </net>
+    <net code="53" name="Net-(J3-Pad16)">
+      <node ref="J3" pin="16"/>
+    </net>
+    <net code="54" name="Net-(J3-Pad17)">
+      <node ref="J3" pin="17"/>
+    </net>
+    <net code="55" name="Net-(J3-Pad18)">
+      <node ref="J3" pin="18"/>
+    </net>
+    <net code="56" name="Net-(J3-Pad19)">
+      <node ref="J3" pin="19"/>
+    </net>
+    <net code="57" name="Net-(J3-Pad20)">
+      <node ref="J3" pin="20"/>
+    </net>
+    <net code="58" name="Preset">
+      <node ref="SW6" pin="2"/>
+      <node ref="R11" pin="2"/>
+      <node ref="J3" pin="9"/>
+    </net>
+    <net code="59" name="OL-CL">
+      <node ref="SW6" pin="4"/>
+      <node ref="R12" pin="2"/>
+      <node ref="J3" pin="8"/>
+    </net>
+    <net code="60" name="Freq-Sweep">
+      <node ref="R13" pin="2"/>
+      <node ref="J3" pin="7"/>
+      <node ref="SW6" pin="6"/>
+    </net>
+    <net code="61" name="CCM-DCM">
+      <node ref="SW6" pin="8"/>
+      <node ref="J3" pin="6"/>
+      <node ref="R14" pin="2"/>
+    </net>
+    <net code="62" name="Net-(R15-Pad1)">
+      <node ref="R6" pin="2"/>
+      <node ref="R15" pin="1"/>
+      <node ref="U3" pin="3"/>
+    </net>
+    <net code="63" name="Net-(R18-Pad1)">
+      <node ref="R23" pin="2"/>
+      <node ref="U3" pin="4"/>
+      <node ref="R18" pin="1"/>
+    </net>
+    <net code="64" name="R+">
+      <node ref="R2" pin="1"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="PT1" pin="1"/>
+      <node ref="SW2" pin="10"/>
+      <node ref="C5" pin="2"/>
+      <node ref="R7" pin="2"/>
+      <node ref="C28" pin="1"/>
+      <node ref="C4" pin="2"/>
+    </net>
+    <net code="65" name="Net-(D2-Pad1)">
+      <node ref="U3" pin="1"/>
+      <node ref="R16" pin="2"/>
+      <node ref="R23" pin="1"/>
+      <node ref="D2" pin="1"/>
+    </net>
+    <net code="66" name="Net-(PT11-Pad1)">
+      <node ref="R3" pin="2"/>
+      <node ref="R30" pin="1"/>
+      <node ref="SW4" pin="1"/>
+      <node ref="PT11" pin="1"/>
+    </net>
+    <net code="67" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="68" name="Net-(R25-Pad2)">
+      <node ref="R25" pin="2"/>
+      <node ref="U5" pin="1"/>
+    </net>
+    <net code="69" name="gate2">
+      <node ref="U6" pin="5"/>
+      <node ref="R29" pin="1"/>
+    </net>
+    <net code="70" name="S2">
+      <node ref="U2" pin="4"/>
+      <node ref="PT7" pin="1"/>
+      <node ref="R29" pin="2"/>
+    </net>
+    <net code="71" name="gate1">
+      <node ref="L8" pin="2"/>
+      <node ref="L9" pin="2"/>
+      <node ref="U6" pin="7"/>
+      <node ref="SW7" pin="1"/>
+      <node ref="L7" pin="2"/>
+    </net>
+    <net code="72" name="+5V">
+      <node ref="C19" pin="1"/>
+      <node ref="C20" pin="1"/>
+      <node ref="C14" pin="1"/>
+      <node ref="L6" pin="2"/>
+      <node ref="C23" pin="1"/>
+      <node ref="U4" pin="6"/>
+      <node ref="J2" pin="11"/>
+      <node ref="C11" pin="2"/>
+      <node ref="U3" pin="5"/>
+      <node ref="U5" pin="7"/>
+      <node ref="U5" pin="6"/>
+      <node ref="U5" pin="3"/>
+      <node ref="C24" pin="1"/>
+    </net>
+    <net code="73" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="R9" pin="1"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="74" name="wire1-">
+      <node ref="SW3" pin="2"/>
+      <node ref="L3" pin="2"/>
+      <node ref="L2" pin="2"/>
+      <node ref="L1" pin="2"/>
+    </net>
+    <net code="75" name="I_switch">
+      <node ref="U2" pin="1"/>
+      <node ref="PT8" pin="1"/>
+      <node ref="U2" pin="2"/>
+      <node ref="U2" pin="3"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="76" name="B+">
+      <node ref="J1" pin="1"/>
+      <node ref="SW2" pin="2"/>
+      <node ref="R15" pin="2"/>
+      <node ref="PT10" pin="1"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="77" name="Net-(R26-Pad2)">
+      <node ref="R26" pin="2"/>
+      <node ref="R27" pin="1"/>
+      <node ref="U5" pin="2"/>
+    </net>
+    <net code="78" name="Net-(L1-Pad1)">
+      <node ref="U1" pin="8"/>
+      <node ref="U1" pin="7"/>
+      <node ref="U1" pin="6"/>
+      <node ref="U1" pin="5"/>
+      <node ref="L1" pin="1"/>
+      <node ref="L3" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="SW3" pin="1"/>
+      <node ref="L2" pin="1"/>
+    </net>
+    <net code="79" name="Switch_Node">
+      <node ref="U1" pin="2"/>
+      <node ref="U1" pin="3"/>
+      <node ref="U1" pin="1"/>
+      <node ref="SW5" pin="1"/>
+      <node ref="C25" pin="2"/>
+      <node ref="U6" pin="6"/>
+      <node ref="PT2" pin="2"/>
+      <node ref="L5" pin="2"/>
+      <node ref="PT4" pin="1"/>
+      <node ref="U2" pin="8"/>
+      <node ref="U2" pin="7"/>
+      <node ref="PT6" pin="1"/>
+      <node ref="U2" pin="6"/>
+      <node ref="U2" pin="5"/>
+      <node ref="PT3" pin="2"/>
+    </net>
+    <net code="80" name="+12V">
+      <node ref="R27" pin="2"/>
+      <node ref="R24" pin="1"/>
+      <node ref="PT9" pin="1"/>
+      <node ref="C27" pin="1"/>
+      <node ref="C26" pin="1"/>
+      <node ref="U6" pin="1"/>
+      <node ref="U7" pin="2"/>
+    </net>
+    <net code="81" name="Net-(L6-Pad1)">
+      <node ref="U5" pin="5"/>
+      <node ref="U7" pin="1"/>
+      <node ref="L6" pin="1"/>
+    </net>
+    <net code="82" name="Net-(C22-Pad1)">
+      <node ref="U5" pin="8"/>
+      <node ref="C22" pin="1"/>
+    </net>
+    <net code="83" name="Net-(C21-Pad1)">
+      <node ref="C21" pin="1"/>
+      <node ref="R25" pin="1"/>
+    </net>
+  </nets>
+</export>
